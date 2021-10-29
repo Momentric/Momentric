@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Momentric
 - ✨ Currently creating clock faces for Fitbit 
-- Check out my [Website](https://momentric-co.web.app/)
+- 👀 Check out my [Website](https://momentric-co.web.app/)
 
 <!---
 Momentric/Momentric is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
